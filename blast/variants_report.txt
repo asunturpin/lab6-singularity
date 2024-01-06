@@ -1,0 +1,10 @@
+
+
+Building a new DB, current time: 01/06/2024 13:17:46
+New DB name:   /home/alumno31/lab6/blast/zebrafish.1.protein.faa
+New DB title:  zebrafish.1.protein.faa
+Sequence type: Protein
+Deleted existing Protein BLAST database named /home/alumno31/lab6/blast/zebrafish.1.protein.faa
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 52951 sequences in 2.39819 seconds.
